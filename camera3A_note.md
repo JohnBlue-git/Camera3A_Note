@@ -18,7 +18,7 @@
 * **Sharpness**
     * Sharpness refers to the perceived clarity and crispness of details in an image. Sharp images have well-defined edges and visible details, while blurry images lack definition and appear hazy.
 
-![Color Temperature](/ColorTemperature.jpg)
+![ColorTemperature](https://github.com/user-attachments/assets/a69747c7-d3e7-46a1-8075-34db9a707b89)
 
 # Common key factors in camera control
 * **Aperture**
@@ -89,7 +89,7 @@
     |Complexity|Simple|Complex|
     |Cost|Inexpensive|Expensive|
 
-    ![AF](/AF.jpeg)
+    ![AF](https://github.com/user-attachments/assets/dde661bb-7365-420c-a252-56153b733c91)
 
     reference: \
     https://steemit.com/photography/@apteacher/digital-photography-focus-settings
@@ -169,8 +169,8 @@ white_balanced_image = dynamic_white_balance(image, gray_reference)
 combine = cv2.hconcat([image, white_balanced_image])
 cv2_imshow(combine)
 ```
-![Blue](/Blue.png)
-![Bridge](/Bridge.png)
+![Blue](https://github.com/user-attachments/assets/8ef6b39c-933d-4b99-acbc-b3a9ae6a4b87)
+![Bridge](https://github.com/user-attachments/assets/b7b01788-bcfc-4f88-b220-ce39203e8cd4)
 
 \
 \
